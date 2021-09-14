@@ -1,0 +1,39 @@
+SYSC 3110 Lab 1
+Kelly Harrison 101070841
+
+Deliverable 1:
+|
+|--Lab1
+|    |
+|    |---.idea
+|           |---.name
+|           |---misc.xml
+|           |---modules.xml
+|           |---workspace.xml
+|    |---src
+|    |Lab1.iml
+|--External Libraries
+|--Scrataches and Consoles
+
+Deliverable 2:
+|
+|--External Libraries
+|       |---java.logging
+|       |---java.sql
+
+Deliverable 3:
+public class BuddyInfo {
+    public static void main (String args[]){
+        System.out.println("Hello World!");
+    }
+}
+
+Deliverable 4:
+|
+|---out
+|    |---production
+|            |---Lab1
+|
+|
+
+
