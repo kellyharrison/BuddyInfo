@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 //Comment comment
+//new branch commit
 
 public class AddressBook {
     private ArrayList<BuddyInfo> friends = new ArrayList<>();
